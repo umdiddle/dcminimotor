@@ -1,1 +1,1 @@
-# dcminimotor
+# DC Mini Motor TSoG Project
